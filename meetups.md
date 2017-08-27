@@ -13,12 +13,15 @@ Meetup: [https://www.meetup.com/pymalta/events/242293400/][11]
 - 20:30 - Talk: "Supercharging Charity live-streaming using Python" by Simon Agius Muscat
 
 ## Presentation Slides and resources
+
 ### Building a chat bot with Errbot
+
 #### (Pavel Savchenko)
 
 > TODO: locked in on Pavel's inactive computer
 
 ### Supercharging Charity live-streaming using Python
+
 #### (Simon Agius Muscat)
 
 - [Slides][12]
@@ -38,6 +41,7 @@ Meetup: [https://www.meetup.com/pymalta/events/242216120/][8]
 ## Presentation Slides and resources
 
 ### Going from zero to web using Flask
+
 ##### (Simon Agius Muscat)
 
 - [Github][9]
