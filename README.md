@@ -7,5 +7,5 @@ www.pymalta.org web page
 
 To run the site locally while adding content, you need to install the gem bundle and execute local jekyll server.
 
-    bundle exec jekyll serve
     bundle install
+    bundle exec jekyll serve
