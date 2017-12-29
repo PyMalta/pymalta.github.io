@@ -1,9 +1,7 @@
-### Intro
-
-## Recording
-
 Video editing is HARD, there's too many things can go wrong with encoder, file formats, keyframes, timestamps, etc.
 This section aims to help organizers with recording, editing and publishing presentation videos.
+
+## Recording
 
 ### Video Recording
 
