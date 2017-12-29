@@ -7,11 +7,19 @@ This section aims to help organizers with recording, editing and publishing pres
 
 ### Video Recording
 
-We found it best to record with highest possible quality (1080p), and use an external audio recording source, such as a phone with voice recorder app running placed on table/podium nearby. A wireless headset or body mic is even better if available.
+We found it best to record with highest possible quality (1080p), beware that still cams may have a restriction on maximum video length, and someone will need to manually click "record" every X minutes (30m/60m/etc).
+
+### Audio Recording
+
+Since the video cam may not have the best mic, and be placed too far from speaker, using an external audio recording device is advised. 
+
+For example, simply place a phone with voice recorder app running placed on table/podium nearby. A wireless headset or body mic is even better if available.
 
 ### Screen recording
 
-To avoid messing with slides placement inside the video, we found it best to ask presentor to record his screen while presenting it. With that video we can simply overlay the 2 recordings together and sync them with little effor. If the presentor doesn't have a screencast / screen recording application, instruct to download the open-source [OBS Studio][2]
+To avoid messing with slides placement inside the video, we found it best to ask presentor to record his screen while presenting it. With that video we can simply overlay the 2 recordings together and sync them with little effor.
+
+If the presentor doesn't have a screencast / screen recording application installed, instruct to download the open-source [OBS Studio][2], set it to record the display where presentation is running (i.e external monitor / projector), and output to a  recorded file.
 
 ## Editing
 
