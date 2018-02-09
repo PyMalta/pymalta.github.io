@@ -2,6 +2,32 @@
 
 The purpose of this page will document past and future meetups of the group, include schedule, presentation slides, etc.
 
+# December 5th, 2017 - Redis and PiHome
+
+Meetup: [https://www.meetup.com/pymalta/events/245361226/][13]
+
+## Agenda
+
+- 18:00 - Intro: Gathering at XCaliber, Sliema
+- 18:30 - Redis - more than a key-value store (Lukasz Dziedzia)
+- 20:00 - PiHome – home automation done with Raspberry PI and Python (Wojtek Sznapka)
+
+## Presentation Slides and resources
+
+### Redis - more than a key-value store
+
+#### (Lukasz Dziedzia)
+
+- [Slides][14]
+- [Video][15]
+
+### PiHome: home automation done with Raspberry PI and Python
+
+#### (Wojtek Sznapka)
+
+- [Slides][16]
+- [Video][17]
+
 # August 24th, 2017 - Nyan calendar
 
 Meetup: [https://www.meetup.com/pymalta/events/242293400/][11]
@@ -97,4 +123,9 @@ Meetup: [https://www.meetup.com/pymalta/events/241792960/][1]
 [9]: https://github.com/purrcat259/zero-to-web-flask-talk
 [10]: https://github.com/purrcat259/zero-to-web-flask-talk/blob/master/Zero%20to%20Web.pdf
 [11]: https://www.meetup.com/pymalta/events/242293400/
-[12]: meetups/2017-08-24/supercharing-charity-livestreaming.pdf 
+[12]: meetups/2017-08-24/supercharing-charity-livestreaming.pdf
+[13]: https://www.meetup.com/pymalta/events/245361226/
+[14]: meetups/2017-12-05/redis_more_than_a_kvstore_pymalta.pdf
+[15]: https://www.youtube.com/watch?v=AUi03c7ElGk
+[16]: meetups/2017-12-05/pihome–home_automation_raspberry_pymalta.pdf
+[17]: https://www.youtube.com/watch?v=FpNuEnlVzK8
