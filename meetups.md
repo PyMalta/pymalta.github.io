@@ -86,8 +86,8 @@ Meetup: [https://www.meetup.com/pymalta/events/241792960/][1]
 
 
 [1]: https://www.meetup.com/pymalta/events/241792960/
-[2]: meetups/2017-07-27/test_plier/test_plier_presentation.pdf
-[3]: meetups/2017-07-27/test_plier/test_plier_resources.zip
+[2]: meetups/2017-07-27/test_plier_presentation.pdf
+[3]: meetups/2017-07-27/test_plier_resources.zip
 [4]: https://packagecontrol.io/packages/Test%20Plier
 [5]: https://github.com/asfaltboy/SublimeTestPlier
 [6]: meetups/2017-07-27/Protect%20your%20web%20app%20with%20ClamAV%20-%20opensource%20AV.pdf
