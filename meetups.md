@@ -158,7 +158,7 @@ Meetup: [https://www.meetup.com/pymalta/events/241792960/][1]
 [17]: https://www.youtube.com/watch?v=FpNuEnlVzK8
 
 [18]: https://www.meetup.com/pymalta/events/252628837/
-[19]: meetups/2019-07-19/piotr_hankiewicz_multi_tenancy.html
+[19]: meetups/2018-07-19/piotr_hankiewicz_multi_tenancy.html
 [20]: https://youtu.be/NWBiWJMwAFY
-[21]: meetups/2019-07-19/demystifying_machine_learning_-_pymalta.pdf
+[21]: meetups/2018-07-19/demystifying_machine_learning_-_pymalta.pdf
 [22]: https://youtu.be/5e2Pw6tx_PE
