@@ -1,6 +1,32 @@
 ## Python Malta Meetups
 
-The purpose of this page will document past and future meetups of the group, include schedule, presentation slides, etc.
+The purpose of this page will document past and future meetups of the group, including: schedule, presentation slides and so on.
+
+# July 19th, 2018 - Demystifying Machine Learning & Multi-tenancy Postgres
+
+Meetup: [https://www.meetup.com/pymalta/events/252628837/][18]
+
+## Agenda
+
+- 19:00: Meet at venue, chatting / networking
+- 19:15: Multi-tenancy Postgres schemas and Django - Piotr Hankiewicz
+- 20:00: Demystifying Machine Learning - Simon Agius Muscat
+
+## Presentation Slides and resources
+
+### Multi-tenancy Postgres schemas and Django
+
+#### (Piotr Hankiewicz)
+
+- [Slides][19]
+- [Video][20]
+
+### Demystifying Machine Learning
+
+#### (Simon Agius Muscat)
+
+- [Slides][21]
+- [Video][22]
 
 # December 5th, 2017 - Redis and PiHome
 
@@ -124,8 +150,15 @@ Meetup: [https://www.meetup.com/pymalta/events/241792960/][1]
 [10]: https://github.com/purrcat259/zero-to-web-flask-talk/blob/master/Zero%20to%20Web.pdf
 [11]: https://www.meetup.com/pymalta/events/242293400/
 [12]: meetups/2017-08-24/supercharing-charity-livestreaming.pdf
+
 [13]: https://www.meetup.com/pymalta/events/245361226/
 [14]: meetups/2017-12-05/redis_more_than_a_kvstore_pymalta.pdf
 [15]: https://www.youtube.com/watch?v=AUi03c7ElGk
 [16]: meetups/2017-12-05/pihome–home_automation_raspberry_pymalta.pdf
 [17]: https://www.youtube.com/watch?v=FpNuEnlVzK8
+
+[18]: https://www.meetup.com/pymalta/events/252628837/
+[19]: meetups/2018-07-19/piotr_hankiewicz_multi_tenancy.html
+[20]: https://youtu.be/NWBiWJMwAFY
+[21]: meetups/2018-07-19/demystifying_machine_learning_-_pymalta.pdf
+[22]: https://youtu.be/5e2Pw6tx_PE
