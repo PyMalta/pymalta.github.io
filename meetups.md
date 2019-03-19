@@ -2,6 +2,32 @@
 
 The purpose of this page will document past and future meetups of the group, including: schedule, presentation slides and so on.
 
+# December 5th, 2018 - 	Creating a faster crawler & Introduction to Artistic Programming 1
+
+Meetup: [https://www.meetup.com/pymalta/events/256358254/][23]
+
+## Agenda
+
+- 7:00pm: Meet at venue, chatting / networking
+- 7:15pm - 8:00pm: Creating faster crawler - João Júnior
+- 8:15pm - 9:00pm: Introduction to Artistic Programming 1 - Simon Agius Muscat
+
+## Presentation Slides and resources
+
+### Creating faster crawler
+
+#### João Júnior
+
+- [Slides][24]
+- [Video][25]
+
+### Introduction to Artistic Programming 1
+
+#### Simon Agius Muscat
+
+- [Slides][26]
+- [Video][27]
+
 # July 19th, 2018 - Demystifying Machine Learning & Multi-tenancy Postgres
 
 Meetup: [https://www.meetup.com/pymalta/events/252628837/][18]
@@ -162,3 +188,9 @@ Meetup: [https://www.meetup.com/pymalta/events/241792960/][1]
 [20]: https://youtu.be/NWBiWJMwAFY
 [21]: meetups/2018-07-19/demystifying_machine_learning_-_pymalta.pdf
 [22]: https://youtu.be/5e2Pw6tx_PE
+
+[23]: https://www.meetup.com/pymalta/events/256358254/
+[24]: http://joaojunior.org/presentations/creating-a-faster-crawler/
+[25]: https://youtu.be/6g1bRjQwz-k
+[26]: meetups/2018-12-05/introduction_to_artistic_programming_1.pdf
+[27]: https://youtu.be/OtUq7RAIQUU
