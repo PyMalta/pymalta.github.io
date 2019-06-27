@@ -20,14 +20,15 @@ Meetup: [https://www.meetup.com/pymalta/events/261568192/][34]
 
 - [Slides][35]
 - [Online][36]
-- [Video][37]
+- [Code][37]
+- [Video][38]
 
 ### Introduction to Web Scraping
 
 #### Simon Agius Muscat
 
-- [Slides][38]
-- [Video][39]
+- [Slides][39]
+- [Video][40]
 
 # April 4th, 2019 - Image recognition 101 & Pair programming
 
@@ -259,6 +260,7 @@ Meetup: [https://www.meetup.com/pymalta/events/241792960/][1]
 [34]: https://www.meetup.com/pymalta/events/261568192/
 [35]: meetups/2019-06-11/intro_to_testing_pt1.pdf
 [36]: http://bit.do/pymalta-tdd
-[37]: WIP@youtube
-[38]: meetups/2019-06-11/intro_to_testing_pt1.pdf
-[39]: WIP@youtube
+[37]: https://github.com/PyMalta/intro-testing
+[38]: WIP@youtube
+[39]: meetups/2019-06-11/intro_to_testing_pt1.pdf
+[40]: WIP@youtube
