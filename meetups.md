@@ -2,6 +2,33 @@
 
 The purpose of this page will document past and future meetups of the group, including: schedule, presentation slides and so on.
 
+# June 11th, 2019 - Introduction to Testing & Introduction to Web Scraping
+
+Meetup: [https://www.meetup.com/pymalta/events/261568192/][34]
+
+## Agenda
+
+- 7:00pm: Meet at venue, chatting / networking
+- 7:15pm - 8:00pm: Introduction to Testing - Pavel Savchenko
+- 8:15pm - 9:00pm: Introduction to Web Scraping - Simon Agius Muscat
+
+## Presentation Slides and resources
+
+### Introduction to Testing
+
+#### Pavel Savchenko
+
+- [Slides][35]
+- [Online][36]
+- [Video][37]
+
+### Introduction to Web Scraping
+
+#### Simon Agius Muscat
+
+- [Slides][38]
+- [Video][39]
+
 # April 4th, 2019 - Image recognition 101 & Pair programming
 
 Meetup: [https://www.meetup.com/pymalta/events/260108498/][28]
@@ -229,4 +256,9 @@ Meetup: [https://www.meetup.com/pymalta/events/241792960/][1]
 [32]: https://colab.research.google.com/drive/1QQeWxpfVvKLybi68m2z6LLchbnhb91X-
 [33]: https://youtu.be/w_F_MqB2wxk
 
-<!-- [30]: http://bit.do/gig-tdd -->
+[34]: https://www.meetup.com/pymalta/events/261568192/
+[35]: meetups/2019-06-11/intro_to_testing_pt1.pdf
+[36]: http://bit.do/pymalta-tdd
+[37]: WIP@youtube
+[38]: meetups/2019-06-11/intro_to_testing_pt1.pdf
+[39]: WIP@youtube
