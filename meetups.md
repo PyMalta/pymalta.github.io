@@ -21,7 +21,7 @@ Meetup: [https://www.meetup.com/pymalta/events/261568192/][34]
 - [Slides][35]
 - [Online][36]
 - [Code][37]
-- [Video][38]
+- (no video) forgot to record sorry 😔
 
 ### Introduction to Web Scraping
 
@@ -261,6 +261,5 @@ Meetup: [https://www.meetup.com/pymalta/events/241792960/][1]
 [35]: meetups/2019-06-11/intro_to_testing_pt1.pdf
 [36]: http://bit.do/pymalta-tdd
 [37]: https://github.com/PyMalta/intro-testing
-[38]: WIP@youtube
-[39]: meetups/2019-06-11/intro_to_testing_pt1.pdf
-[40]: WIP@youtube
+[39]: meetups/2019-06-11/intro_to_scraping.pdf
+[40]: https://youtu.be/xPP3z1-wmas
