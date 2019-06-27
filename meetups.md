@@ -2,6 +2,33 @@
 
 The purpose of this page will document past and future meetups of the group, including: schedule, presentation slides and so on.
 
+# April 4th, 2019 - Image recognition 101 & Pair programming
+
+Meetup: [https://www.meetup.com/pymalta/events/260108498/][28]
+
+## Agenda
+
+- 7:00pm: Meet at venue, chatting / networking
+- 7:15pm - 8:00pm: Remote pair programming - Pavel Savchenko
+- 8:15pm - 9:00pm: Image Recognition 101 - Piotr Hankiewicz
+
+## Presentation Slides and resources
+
+### Remote pair programming
+
+#### Pavel Savchenko
+
+- [Slides][29]
+- [Video][30]
+
+### Image Recognition 101
+
+#### Piotr Hankiewicz
+
+- [Slides][31]
+- [Online][32]
+- [Video][33]
+
 # December 5th, 2018 - 	Creating a faster crawler & Introduction to Artistic Programming 1
 
 Meetup: [https://www.meetup.com/pymalta/events/256358254/][23]
@@ -194,3 +221,12 @@ Meetup: [https://www.meetup.com/pymalta/events/241792960/][1]
 [25]: https://youtu.be/6g1bRjQwz-k
 [26]: meetups/2018-12-05/introduction_to_artistic_programming_1.pdf
 [27]: https://youtu.be/OtUq7RAIQUU
+
+[28]: https://www.meetup.com/pymalta/events/260108498/
+[29]: meetups/2019-04-04/remote_pair_programming.pdf
+[30]: https://youtu.be/trnkX14X7lY
+[31]: meetups/2019-04-04/image_recognition_101.ipynb.zip
+[32]: https://colab.research.google.com/drive/1QQeWxpfVvKLybi68m2z6LLchbnhb91X-
+[33]: https://youtu.be/w_F_MqB2wxk
+
+<!-- [30]: http://bit.do/gig-tdd -->
