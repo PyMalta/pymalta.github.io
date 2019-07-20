@@ -16,6 +16,7 @@ If you are a python user and live in Malta, please reach out and help build the 
 * Meetup: [https://www.meetup.com/pymalta/][6]
 * Google Group: [https://groups.google.com/forum/#!forum/pymalta][2]
 * Trello Group: [https://trello.com/b/galMauGc][8]
+* Slack Channel #pymalta on python-community.slack.com ([join here][9])
 
 ### Code of Conduct
 
@@ -33,3 +34,4 @@ To contact the organisers, feel free to drop us an email to [contact@pymalta.org
 [6]: https://www.meetup.com/pymalta/
 [7]: mailto:contact@pymalta.org
 [8]: https://trello.com/b/galMauGc
+[9]: https://pythoncommunity.herokuapp.com/
