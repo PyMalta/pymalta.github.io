@@ -1,8 +1,12 @@
 title: Python Malta
 description: a Python community for the Maltese islands
-google_analytics: 
+google_analytics:
 show_downloads: true
 theme: jekyll-theme-merlot
 
 gems:
   - jekyll-mentions
+  - jemoji
+
+plugins:
+  - jemoji
