@@ -8,6 +8,8 @@ We would love to see you at one of our meetups, sign up on [meetup.com/pymalta][
 
 For information on previous meetups and related resources, [click here][3].
 
+For general learning resources, we've compiled [this list of resources][10] for easier access and linking.
+
 ### JOIN US !
 
 If you are a python user and live in Malta, please reach out and help build the community. Here are some ways you can communicate right now:
@@ -35,3 +37,4 @@ To contact the organisers, feel free to drop us an email to [contact@pymalta.org
 [7]: mailto:contact@pymalta.org
 [8]: https://trello.com/b/galMauGc
 [9]: https://pythoncommunity.herokuapp.com/
+[10]: learning
